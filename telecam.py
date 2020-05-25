@@ -6,8 +6,8 @@ import picamera
 
 logging.basicConfig(level=logging.DEBUG)
 
-BOT_KEY = '1182296187:AAE00CpQ8krO42RZv_asrHUznZ8r8u_k3NE'
-BOT_CHAT_ID = '63620166'
+BOT_KEY = '000000:xxxxxxx'
+BOT_CHAT_ID = '1234567'
 IMAGE_PATH = '/home/pi/Michael/image.jpg'
 IMAGE_ROTATION = 270
 
