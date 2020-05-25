@@ -18,4 +18,4 @@ Then, optionally, install script as service
 // TODO
 
 Don't forget to enable the camera
-```sudo raspi-config -> Interfacing ````
+``` sudo raspi-config -> Interfacing ```
