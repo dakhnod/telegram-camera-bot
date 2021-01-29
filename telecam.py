@@ -8,7 +8,7 @@ logging.basicConfig(level=logging.DEBUG)
 
 BOT_KEY = '000000:xxxxxxx'
 BOT_CHAT_ID = '1234567'
-IMAGE_PATH = '/home/pi/Michael/image.jpg'
+IMAGE_PATH = '/home/pi/nichtMichael/image.jpg'
 IMAGE_ROTATION = 270
 
 def handle_start(bot, update):
